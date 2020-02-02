@@ -1,2 +1,2 @@
-import { cat } from './cats';
+import { cat } from "./cats";
 console.log(cat);
